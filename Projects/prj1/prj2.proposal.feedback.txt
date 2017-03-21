@@ -1,0 +1,13 @@
+10 pts
+
+Sabrina,
+
+The proposal was not in the required folder. Should be in prj2/.
+
+The project idea seems interesting and challenging. Go for it!
+Here are some easy image filters using kernels and convolution:
+https://en.wikipedia.org/wiki/Kernel_(image_processing)
+
+Peace,
+
+- Dr. Rivas
